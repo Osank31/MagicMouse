@@ -68,3 +68,9 @@ This script:
 ## Notes
 
 This is my first AI project, designed to make interacting with computers more accessible and engaging.
+
+## Demo Video
+
+[![MagicMouse Demo](https://img.youtube.com/vi/CFroBL8t-a8/0.jpg)](https://www.youtube.com/watch?v=CFroBL8t-a8)
+
+Click the image above to watch the demo on YouTube.
